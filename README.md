@@ -13,3 +13,5 @@ This project predicts whether a passenger on the Titanic would survive based on 
 1. Install required packages:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
+
+[Download the dataset from here](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
